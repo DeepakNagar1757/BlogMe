@@ -1,1 +1,1 @@
-<p>This is a my first web site using java and servlet which include MySql database also.<br>This project is made for learning purpose and i learned so much from this.<br> This project is incomplete and you all are invited to contribute to this project and make it complete.</p>
+<h3>This is a my first web site using java and servlet which include MySql database also.<br>This project is made for learning purpose and i learned so much from this.<br> This project is incomplete and you all are invited to contribute to this project and make it complete.</h3>
